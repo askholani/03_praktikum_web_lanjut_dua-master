@@ -11,11 +11,11 @@
                 <div class="card" style="width: 15rem;">
                     <img src="/FotoKTM.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Andika Ainur Wibowo</h5>
+                        <h5 class="card-title">Ibnu Hajar Askholani</h5>
                         <p class="card-text">
-                            NIM &ensp;&ensp;: 2141720238 <br>
+                            NIM &ensp;&ensp;: 2141720170<br>
                             Kelas&ensp;&ensp;: TI-2F <br>
-                            Absen&ensp;: 07
+                            Absen&ensp;: 13
                         </p>
                         <a href="/Profile/Andika" class="btn btn-primary">Link Profile</a>
                     </div>
@@ -25,12 +25,13 @@
                 <div class="card" style="width: 15rem;">
                     <img src="/FotoKTM.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Hakan Alif Pramudya</h5>
+                        <h5 class="card-title">Faiz Atha Radhitya</h5>
                         <p class="card-text">
-                            NIM &ensp;&ensp;: 2141720238 <br>
+                            NIM &ensp;&ensp;: 2141720229 <br>
                             Kelas&ensp;&ensp;: TI-2F <br>
-                            Absen&ensp;: 07</p>
-                        <a href="List/Profile-Alif" class="btn btn-primary">Link Profile</a>
+                            Absen&ensp;: 11
+                        </p>
+                        <a href="/Profile/Andika" class="btn btn-primary">Link Profile</a>
                     </div>
                 </div>
             </div>
